@@ -1,0 +1,100 @@
+
+\documentclass{beamer}
+\usetheme{metropolis} 
+
+\begin{document}
+
+    % Slide 1
+    \begin{frame}{Sobre mim}
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.2\linewidth]{Foto_perfil.JPG}
+            \caption{Ricardo Timoteo Wanderley}
+            \label{fig:enter-label}
+        \end{figure}
+        \begin{itemize}
+            \item Estudante de Eng. de Controle e Automação;
+            \item Instrutor do projeto de extensão ProgramAuto;
+            \item Interessado em tecnologia.
+            \item[ ]
+            \item Desenvolver conhecimento em programação;
+            \item Interesse em trabalar na área da robótica.
+        \end{itemize}
+    \end{frame}
+
+    % Slide 2
+    \begin{frame}{Motivações e Interesses na ARI/POLI}
+
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.2\linewidth]{logo_ari.png}
+            \caption{Logo ARI}
+            \label{fig:enter-label}
+        \end{figure}
+    
+        Acredito no poder da colaboração e da internacionalização acadêmica. A ARI/POLI representa uma ponte entre nossos alunos e o mundo — julgo de suma importancia para o desenvolvimento de um proficional de excelencia.
+        \bigskip
+
+        Me envolver nos projetos da ARI também me aproxima do meu objetivo de desenvolver habilidades em comunicação intercultural, gestão e liderança.
+    \end{frame}
+
+    % Slide 3
+    \begin{frame}{Contribuição no Projeto ProgramAuto}
+
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.6\linewidth]{logo_programauto.png}
+            \caption{Logo ProgramAuto}
+            \label{fig:enter-label}
+        \end{figure}
+    
+        Escolhi o ProgramAuto por já fazer parte desse projeto e por estar alinhado com minha experiência vivida na área de programação e ensino.
+        \bigskip
+
+        Pretendo continuar colaborando no desenvolvimento de conteúdos didáticos, ministrando oficinas introdutórias em C, ajudando na elaboração de problemas para olimpíadas internas, além de me responsabilizar pela área administrativa do projeto.
+    \end{frame}
+
+    % Slide 4
+    \begin{frame}{Interesse no Projeto AudioVisuais}
+
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.3\linewidth]{logo_audiovisuais.png}
+            \caption{Logo AudioVisuais}
+            \label{fig:enter-label}
+        \end{figure}
+    
+        O AudioVisuais me chamou atenção pela proposta do desenvolvimento educacional de forma remota. 
+        \bigskip
+
+        Acredito que posso contribuir com a produção de conteúdos educativos e em entrevistas de alunos intercambistas, pela habilidade de se comunicar, que é muito praticada nas aulas e oficinas do ProgramAuto.
+    \end{frame}
+
+    % Slide 5
+    \begin{frame}{Comentários sobre o Manual Administrativo}
+        Após leitura do Manual, considero que ele está muito bem estruturado. Algumas sugestões de melhoria: \begin{itemize}
+            \item Incluir no PDF links para vídeos -- facilitando o entendimento do passo a passo;
+            \item Adicionar exemplos para cada função listada na composição de e-mail HTML.
+        \end{itemize}
+    \end{frame}
+
+% Slide 6
+    \begin{frame}{Comentários sobre o site da ARI}
+        O site da ARI tem bastante conteúdo relevante, mas pode ser otimizado. Sugestões:
+        \begin{itemize}
+            \item Unificar informações repetidas em páginas diferentes;
+            \item Melhorar a hierarquia de menus -- deixando mais intuitivo;
+            \item Atualizar seções de projetos com dados mais recentes e resultados;
+            \item Adicionar novos indiomas -- visto que a POLI/UPE tem convênios com universidades em que a lingua falada não está disponivel no site.
+        \end{itemize}
+    \end{frame}
+
+% Slide 7
+    \begin{frame}{Considerações Finais}
+        Participar como bolsista da ARI será uma oportunidade única de crescimento pessoal e profissional.  
+        \bigskip
+
+        Acredito que ainda posso agregar muito no projeto de extensão ProgramAuto e na ARI. Estou aberto a colaborar e aprender muito com todos os envolvidos na ARI e em todos os projetos.
+    \end{frame}
+
+\end{document}
